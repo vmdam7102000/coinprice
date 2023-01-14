@@ -2,5 +2,4 @@ numpy==1.23.5
 pandas==1.5.2
 streamlit==1.16.0
 plotly==5.11.0
-psycopg2
 SQLAlchemy==1.4.44
